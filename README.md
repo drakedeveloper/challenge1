@@ -1,6 +1,5 @@
-# Competitive Programming Solutions 🏆
+# Challenge 1
 
-Two classic algorithmic challenges solved with Python - optimized for Codeforces-style competitions.
 
 ---
 
